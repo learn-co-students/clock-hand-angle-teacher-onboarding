@@ -16,3 +16,4 @@ end
 puts clock_angle("1:05")
 puts clock_angle("9:15")
 puts clock_angle("12:00")
+puts clock_angle("6:45")
